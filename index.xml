@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Random Output</title>
-    <link>xrna-blog.github.io/</link>
+    <link>https://xrna-blog.github.io/</link>
     <description>Recent content on Random Output</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 27 Sep 2020 19:01:37 +0800</lastBuildDate><atom:link href="xrna-blog.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 27 Sep 2020 19:01:37 +0800</lastBuildDate><atom:link href="https://xrna-blog.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Post</title>
-      <link>xrna-blog.github.io/posts/my-first-post/</link>
+      <link>https://xrna-blog.github.io/posts/my-first-post/</link>
       <pubDate>Sun, 27 Sep 2020 19:01:37 +0800</pubDate>
       
-      <guid>xrna-blog.github.io/posts/my-first-post/</guid>
+      <guid>https://xrna-blog.github.io/posts/my-first-post/</guid>
       <description>Test Text</description>
     </item>
     
